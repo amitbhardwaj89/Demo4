@@ -7,5 +7,6 @@
  */
 class Demo1{
     var $title,$price;
-    function
+    function 
+        /* below comment has been added*/
 }
