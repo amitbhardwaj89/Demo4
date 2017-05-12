@@ -7,6 +7,7 @@
  */
 class Demo1{
     var $title,$price;
-    function 
-        /* below comment has been added*/
+    function xyz(){
+       /* below comment has been added*/
+    }
 }
